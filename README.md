@@ -2,7 +2,6 @@
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shiv0112&theme=algolia" alt="shiv0112" /></a> </p> -->
 
-<!-- ![](https://komarev.com/ghpvc/?username=shiv0112&color=green&style=for-the-badge) -->
 
 Data is today's fuel. The sheer power of data drove me to initiate my journey into the mysterious world of Data Science.
 
@@ -40,7 +39,7 @@ I am currentl working as a Associate Data Scientist at Affine.
 <img src="https://user-images.githubusercontent.com/74089340/185174329-98c9ec72-ced7-4f71-9d00-c171a03b5aa5.png" width="" height="48">
 
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
-<a href = 'https://www.linkedin.com/in/subhash-dixit-nit-durgapur/'> <img width = '32px' align= 'center' src="https://github.com/subhashdixit/subhashdixit/blob/main/linkedin.png"/></a>
+<a href = 'https://www.linkedin.com/in/subhash-dixit-nit-durgapur/'> <img width = '32px' align= 'center' src="https://github.com/subhashdixit/subhashdixit/blob/main/l.jpeg?raw=true"/></a>
 <a href = 'https://github.com/subhashdixit'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a>
 
 <br>
