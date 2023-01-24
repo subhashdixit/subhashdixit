@@ -14,11 +14,11 @@ Email: subhashdixit17@gmail.com
 
 - 🔭 I’m currently working on Data Science & Machine Learning.
 
-- 🌱 I’m currently learning Data Science,Machine Learning, End to End projects and Databricks
+- 🌱 I’m currently learning Data Science,Machine Learning, Deep Learning,  End to End projects and Databricks
 
 - 👯 I’m looking to collaborate on Projects,Tech Articles
 
-- 💬 Talk to me about Python, Machine Learning, SQL, Freelancing Opportunites, Open Source, NLP, Statistics, Mathematics
+- 💬 Talk to me about Python, Machine Learning, SQL, Freelancing Opportunites, Open Source, NLP, Deep Learning, Statistics, Mathematics
 
 - 😄 Words that describe me - Self-motivated, Focused, Extreme Hardworking & curious.
 
