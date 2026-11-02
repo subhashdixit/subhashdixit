@@ -1,14 +1,22 @@
-# Subhash Dixit
+<p align="center"><img src="https://raw.githubusercontent.com/subhashdixit/subhashdixit/main/assets/profile-banner.svg" width="100%" alt="Subhash Dixit — Building with Data and AI" /></p>
 
-### Senior Data Scientist · Applied AI, Forecasting, Pricing & Customer Analytics
+<h1 align="center">Subhash Dixit</h1>
+<p align="center"><strong>Senior Data Scientist · Applied AI · Forecasting · Pricing · Customer Analytics</strong></p>
+<p align="center">EPAM Systems &nbsp;•&nbsp; Kolkata, India &nbsp;•&nbsp; NIT Durgapur</p>
 
-**EPAM Systems** · Kolkata, India · **NIT Durgapur alumnus**
+<p align="center">
+  <a href="mailto:subhashdixit17@gmail.com"><img src="https://raw.githubusercontent.com/subhashdixit/subhashdixit/main/assets/contact-email.svg" height="48" alt="Email: subhashdixit17@gmail.com" /></a>
+  <a href="https://www.linkedin.com/in/subhash-dixit-nit-durgapur/"><img src="https://raw.githubusercontent.com/subhashdixit/subhashdixit/main/assets/contact-linkedin.svg" height="48" alt="Connect with Subhash Dixit on LinkedIn" /></a>
+  <a href="tel:+919205979486"><img src="https://raw.githubusercontent.com/subhashdixit/subhashdixit/main/assets/contact-mobile.svg" height="48" alt="Mobile: +91 92059 79486" /></a>
+</p>
+
+<p align="center"><a href="PROJECTS.md"><strong>Explore 37 live applications</strong></a> &nbsp; | &nbsp; <a href="https://github.com/subhashdixit/learning-hub"><strong>Learning Hub</strong></a> &nbsp; | &nbsp; <a href="#professional-experience"><strong>Experience</strong></a></p>
+
+---
 
 I turn business questions into data products: forecasting demand, understanding price and promotion effects, analysing customer behaviour, and building reliable machine learning applications. I have 5+ years of experience across consumer goods, gaming and analytics, with roles at EPAM Systems, WNS Analytics, Affine Analytics and TCS.
 
 Alongside my business analytics work, I build **applied AI tools for document intelligence, research and knowledge discovery**. My portfolio includes local LLM inference, document retrieval, summarisation, OCR and editable AI-generated drafts, with attention to privacy, evaluation and usable interfaces.
-
-[Explore all projects](PROJECTS.md) · [Learning Hub](https://github.com/subhashdixit/learning-hub) · [LinkedIn](https://www.linkedin.com/in/subhash-dixit-nit-durgapur/) · [Email](mailto:subhashdixit17@gmail.com)
 
 ## What I work on
 
@@ -92,6 +100,14 @@ My employment case studies and career documents are maintained separately from t
 
 I’m interested in forecasting, pricing analytics, customer intelligence, applied machine learning and practical AI engineering.
 
-[LinkedIn](https://www.linkedin.com/in/subhash-dixit-nit-durgapur/) · [subhashdixit17@gmail.com](mailto:subhashdixit17@gmail.com)
+<p align="center">
+  <a href="mailto:subhashdixit17@gmail.com"><img src="https://raw.githubusercontent.com/subhashdixit/subhashdixit/main/assets/contact-email.svg" height="48" alt="Email: subhashdixit17@gmail.com" /></a>
+  <a href="https://www.linkedin.com/in/subhash-dixit-nit-durgapur/"><img src="https://raw.githubusercontent.com/subhashdixit/subhashdixit/main/assets/contact-linkedin.svg" height="48" alt="Connect with Subhash Dixit on LinkedIn" /></a>
+  <a href="tel:+919205979486"><img src="https://raw.githubusercontent.com/subhashdixit/subhashdixit/main/assets/contact-mobile.svg" height="48" alt="Mobile: +91 92059 79486" /></a>
+</p>
+
+**Email:** [subhashdixit17@gmail.com](mailto:subhashdixit17@gmail.com) &nbsp; · &nbsp; **Mobile:** +91 92059 79486
+
+**LinkedIn:** [Subhash Dixit](https://www.linkedin.com/in/subhash-dixit-nit-durgapur/)
 
 **Career document workspace:** [professional-portfolio](https://github.com/subhashdixit/professional-portfolio) is private and accessible only to authorised collaborators. This public README and the project catalogue provide the visitor-facing overview.
