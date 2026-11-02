@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="250" viewBox="0 0 1200 250" role="img" aria-labelledby="title desc">
+<title id="title">Building with Data and AI — Subhash Dixit</title><desc id="desc">A navy, teal and violet banner illustrating a connected AI network and an upward data curve.</desc>
+<defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#0B1223"/><stop offset="1" stop-color="#162940"/></linearGradient><linearGradient id="accent"><stop stop-color="#38D7B6"/><stop offset="1" stop-color="#8B87FF"/></linearGradient><radialGradient id="glow"><stop stop-color="#38D7B6" stop-opacity=".16"/><stop offset="1" stop-color="#38D7B6" stop-opacity="0"/></radialGradient></defs>
+<rect width="1200" height="250" rx="22" fill="url(#bg)"/><circle cx="1050" cy="120" r="230" fill="url(#glow)"/>
+<path d="M0 246H1200" stroke="url(#accent)" stroke-width="5"/>
+<g fill="none" stroke="#7992B5" stroke-opacity=".12"><path d="M800 0V250M880 0V250M960 0V250M1040 0V250M1120 0V250M760 50H1200M760 100H1200M760 150H1200M760 200H1200"/></g>
+<rect x="46" y="43" width="208" height="27" rx="13.5" fill="#38D7B6" fill-opacity=".12" stroke="#38D7B6" stroke-opacity=".35"/>
+<text x="64" y="61" fill="#6CE9CD" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700" letter-spacing="1.7">SUBHASH DIXIT / PORTFOLIO</text>
+<text x="46" y="119" fill="#F1F7FF" font-family="Arial, Helvetica, sans-serif" font-size="40" font-weight="700">Building with Data &amp; AI</text>
+<text x="48" y="154" fill="#BBCBDD" font-family="Arial, Helvetica, sans-serif" font-size="19">From business questions to useful applications.</text>
+<text x="48" y="206" fill="#81A0C3" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700" letter-spacing="1.6">APPLIED AI   /   FORECASTING   /   PRICING   /   CUSTOMER ANALYTICS</text>
+<g stroke="#8E9BFF" stroke-opacity=".65" stroke-width="2"><path d="M830 73L914 45L981 102L1073 58L1140 116L1060 184L963 191L894 141L830 73M914 45L894 141L981 102L1060 184M981 102L1140 116M1073 58L1060 184M894 141L963 191" fill="none"/></g>
+<g fill="#192E46" stroke="#8E9BFF" stroke-width="3"><circle cx="830" cy="73" r="7"/><circle cx="914" cy="45" r="8"/><circle cx="1073" cy="58" r="7"/><circle cx="1140" cy="116" r="8"/><circle cx="1060" cy="184" r="8"/><circle cx="963" cy="191" r="6"/><circle cx="894" cy="141" r="8"/></g>
+<circle cx="981" cy="102" r="19" fill="#38D7B6" fill-opacity=".12"/><circle cx="981" cy="102" r="10" fill="#38D7B6"/>
+<path d="M814 213L873 195L918 211L961 158L1004 169L1044 122L1100 138L1154 86" fill="none" stroke="#50E0C0" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
