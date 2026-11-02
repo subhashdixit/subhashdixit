@@ -1,10 +1,12 @@
 # Subhash Dixit
 
-### Senior Data Scientist · Forecasting, Pricing & Customer Analytics
+### Senior Data Scientist · Applied AI, Forecasting, Pricing & Customer Analytics
 
 **EPAM Systems** · Kolkata, India · **NIT Durgapur alumnus**
 
 I turn business questions into data products: forecasting demand, understanding price and promotion effects, analysing customer behaviour, and building reliable machine learning applications. I have 5+ years of experience across consumer goods, gaming and analytics, with roles at EPAM Systems, WNS Analytics, Affine Analytics and TCS.
+
+Alongside my business analytics work, I build **applied AI tools for document intelligence, research and knowledge discovery**. My portfolio includes local LLM inference, document retrieval, summarisation, OCR and editable AI-generated drafts, with attention to privacy, evaluation and usable interfaces.
 
 [Explore all projects](PROJECTS.md) · [Learning Hub](https://github.com/subhashdixit/learning-hub) · [LinkedIn](https://www.linkedin.com/in/subhash-dixit-nit-durgapur/) · [Email](mailto:subhashdixit17@gmail.com)
 
@@ -13,7 +15,28 @@ I turn business questions into data products: forecasting demand, understanding 
 - **Forecasting and planning:** demand forecasting, baseline sales, seasonality, promotional uplift and revenue planning.
 - **Pricing and product analytics:** price elasticity, product mapping, SKU hierarchies and competitive intelligence.
 - **Customer and text analytics:** segmentation, retention, sentiment analysis and evidence-based document tools.
+- **Applied AI portfolio:** document question answering, source-grounded research, local LLMs, OCR and document summarisation.
 - **Reliable delivery:** data validation, reusable Python packages, web interfaces, testing, CI/CD and deployment.
+
+## Applied AI and document intelligence
+
+I turn AI concepts into applications people can try. These are independent portfolio projects, alongside my forecasting, pricing and customer analytics experience.
+
+| Application | AI work and practical use |
+|---|---|
+| [AI Research Workbench](https://github.com/subhashdixit/ai-research-workbench) | Collect attributed research-feed excerpts and turn supplied evidence into summaries and editable local-LLM briefings. |
+| [Equity Research Assistant](https://github.com/subhashdixit/equity-research-assistant) | Retrieve relevant financial-document passages with BM25 and use that evidence for source-linked answer drafts. |
+| [Document Summarizer](https://github.com/subhashdixit/document-summarizer) | Extract text from PDFs, create extractive summaries and generate editable summaries with a local language model. |
+| [Invoice Extraction Studio](https://github.com/subhashdixit/invoice-extraction-studio) | Combine English/Hindi OCR, structured field extraction and arithmetic reconciliation with optional OCR-grounded LLM reading. |
+| [Multimodal Assistant](https://github.com/subhashdixit/multimodal-assistant) | Explore OCR-first image workflows, text analysis and explicitly experimental small-model vision inference. |
+| [Course Q&A Assistant](https://github.com/subhashdixit/course-qa-assistant) | Retrieve existing FAQ evidence and inspect original answers before generating an optional model draft. |
+| [Cover Letter Studio](https://github.com/subhashdixit/cover-letter-studio) | Compare a supplied profile with job requirements and produce editable, exportable application drafts. |
+
+**Implementation stack:** Hugging Face Transformers.js, ONNX Runtime Web, WebAssembly, Web Workers, PDF.js and Tesseract.js. The local-model options include Qwen2.5, SmolLM2 and experimental SmolVLM vision. Model revisions and library versions are pinned in the repositories.
+
+**Engineering focus:** source attribution, bounded inputs, background inference, cancellation, local processing and human review. Small models can hallucinate; retrieved evidence and OCR transcripts remain visible so users can check the output.
+
+**Continuing learning:** RAG architecture, embeddings and vector databases, LangChain, LangGraph, agent workflows, and spec-driven development with Claude. My Learning Hub records these topics as I build and refine the practical examples.
 
 ## Selected projects
 
@@ -50,7 +73,10 @@ My employment case studies and career documents are maintained separately from t
 | Programming and data | Python, SQL, PySpark, Excel |
 | Machine learning and statistics | scikit-learn, XGBoost, regression, classification, clustering, A/B testing, SHAP |
 | Forecasting and econometrics | ARIMA, SARIMA, Prophet, exponential smoothing, price elasticity and promotional modelling |
-| NLP and AI engineering | Sentiment analysis, VADER, n-grams; portfolio learning with LangChain, LangGraph, RAG and agents |
+| NLP and text analytics | Sentiment analysis, VADER, n-grams, document extraction and BM25 retrieval |
+| Applied AI and local inference | LLMs, Transformers.js, ONNX Runtime Web, WebAssembly, Qwen2.5 and SmolLM2 |
+| Document and image AI | PDF.js, Tesseract.js, English/Hindi OCR, structured invoice extraction and experimental SmolVLM vision |
+| AI engineering learning | RAG, embeddings, vector databases, LangChain, LangGraph, agents and spec-driven development |
 | Platforms and delivery | Databricks, AWS, Flask, Streamlit, HTML/JavaScript, Docker, Git, GitHub Actions, Render and Cloudflare |
 
 ## Education and continued learning
