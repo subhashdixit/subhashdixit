@@ -16,7 +16,7 @@
 
 I turn business questions into data products: forecasting demand, understanding price and promotion effects, analysing customer behaviour, and building reliable machine learning applications. I have 5+ years of experience across consumer goods, gaming and analytics, with roles at EPAM Systems, WNS Analytics, Affine Analytics and TCS.
 
-Alongside my business analytics work, I build **applied AI tools for document intelligence, research and knowledge discovery**. My portfolio includes local LLM inference, document retrieval, summarisation, OCR and editable AI-generated drafts, with attention to privacy, evaluation and usable interfaces.
+Alongside my data science work, I build **applied AI tools for document intelligence, research and knowledge discovery**. My portfolio includes local LLM inference, document retrieval, summarisation, OCR and editable AI-generated drafts, with attention to privacy, evaluation and usable interfaces.
 
 ## What I work on
 
