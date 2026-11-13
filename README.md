@@ -4,7 +4,7 @@
   <a href="https://subhashdixit.github.io/"><img src="./assets/profile-portfolio.png" width="104" alt="View portfolio" /></a>
   <a href="mailto:subhashdixit17@gmail.com"><img src="./assets/profile-email.png" width="69" alt="Email Subhash Dixit" /></a>
   <a href="https://www.linkedin.com/in/subhash-dixit-nit-durgapur/"><img src="./assets/profile-linkedin.png" width="96" alt="Connect on LinkedIn" /></a>
-  <a href="tel:+919205979486"><img src="./assets/profile-phone.png" width="147" alt="Call +91 92059 79486" /></a>
+  <a href="https://subhashdixit.github.io/#contact"><img src="./assets/profile-phone.png" width="147" alt="Phone +91 92059 79486. Open contact page" /></a>
 </p>
 
 <p align="center"><a href="PROJECTS.md"><strong>Explore 37 live applications</strong></a> &nbsp; | &nbsp; <a href="https://github.com/subhashdixit/learning-hub"><strong>Learning Hub</strong></a> &nbsp; | &nbsp; <a href="#professional-experience"><strong>Experience</strong></a></p>
