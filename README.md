@@ -1,13 +1,10 @@
-<p align="center"><img src="https://raw.githubusercontent.com/subhashdixit/subhashdixit/main/assets/profile-banner.svg" width="100%" alt="Subhash Dixit — Building with Data and AI" /></p>
-
-<h1 align="center">Subhash Dixit</h1>
-<p align="center"><strong>Senior Data Scientist · Applied AI · Forecasting · Pricing · Customer Analytics</strong></p>
-<p align="center">EPAM Systems &nbsp;•&nbsp; Kolkata, India &nbsp;•&nbsp; NIT Durgapur</p>
+<p align="center"><img src="./assets/profile-banner-portfolio.png" width="100%" alt="Subhash Dixit. Senior Data Scientist at EPAM Systems. Applied AI. 5+ years of experience. Forecasting, pricing and promotions, feedback analysis, AI chatbots and agents." /></p>
 
 <p align="center">
-  <a href="mailto:subhashdixit17@gmail.com"><img src="https://raw.githubusercontent.com/subhashdixit/subhashdixit/main/assets/contact-email.svg" height="48" alt="Email: subhashdixit17@gmail.com" /></a>
-  <a href="https://www.linkedin.com/in/subhash-dixit-nit-durgapur/"><img src="https://raw.githubusercontent.com/subhashdixit/subhashdixit/main/assets/contact-linkedin.svg" height="48" alt="Connect with Subhash Dixit on LinkedIn" /></a>
-  <a href="#connect"><img src="https://raw.githubusercontent.com/subhashdixit/subhashdixit/main/assets/contact-mobile.svg" height="48" alt="Mobile: +91 92059 79486" /></a>
+  <a href="https://subhashdixit.github.io/"><img src="./assets/profile-portfolio.png" width="104" alt="View portfolio" /></a>
+  <a href="mailto:subhashdixit17@gmail.com"><img src="./assets/profile-email.png" width="69" alt="Email Subhash Dixit" /></a>
+  <a href="https://www.linkedin.com/in/subhash-dixit-nit-durgapur/"><img src="./assets/profile-linkedin.png" width="96" alt="Connect on LinkedIn" /></a>
+  <a href="tel:+919205979486"><img src="./assets/profile-phone.png" width="147" alt="Call +91 92059 79486" /></a>
 </p>
 
 <p align="center"><a href="PROJECTS.md"><strong>Explore 37 live applications</strong></a> &nbsp; | &nbsp; <a href="https://github.com/subhashdixit/learning-hub"><strong>Learning Hub</strong></a> &nbsp; | &nbsp; <a href="#professional-experience"><strong>Experience</strong></a></p>
