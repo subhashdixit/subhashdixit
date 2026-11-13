@@ -1,3 +1,6 @@
+<table width="100%">
+<tr>
+<td>
 <p align="center"><img src="./assets/profile-banner-portfolio.png" width="100%" alt="Subhash Dixit. Senior Data Scientist at EPAM Systems. Applied AI. 5+ years of experience. Forecasting, pricing and promotions, feedback analysis, AI chatbots and agents." /></p>
 
 <p align="center">
@@ -7,7 +10,10 @@
   <a href="https://subhashdixit.github.io/#contact"><img src="./assets/profile-phone.png" width="147" alt="Phone +91 92059 79486. Open contact page" /></a>
 </p>
 
-<p align="center"><a href="PROJECTS.md"><strong>Explore 37 live applications</strong></a> &nbsp; | &nbsp; <a href="https://github.com/subhashdixit/learning-hub"><strong>Learning Hub</strong></a> &nbsp; | &nbsp; <a href="#professional-experience"><strong>Experience</strong></a></p>
+<p align="center"><a href="PROJECTS.md"><strong>Explore live applications</strong></a> &nbsp; | &nbsp; <a href="https://github.com/subhashdixit/learning-hub"><strong>Learning Hub</strong></a> &nbsp; | &nbsp; <a href="#professional-experience"><strong>Experience</strong></a></p>
+</td>
+</tr>
+</table>
 
 ---
 
@@ -56,7 +62,7 @@ These are public portfolio and learning applications. Their README files explain
 | Equity Research Assistant | Financial-document search, evidence retrieval and optional local-model drafts | [Launch](https://subhashdixit.github.io/equity-research-assistant/) | [Repository](https://github.com/subhashdixit/equity-research-assistant) |
 | Spendly | Expense tracking, category/date filters and portable browser-local backups | [Launch](https://subhashdixit.github.io/spendly/) | [Repository](https://github.com/subhashdixit/spendly) |
 
-**[Browse all 37 application repositories and live links →](PROJECTS.md)**
+**[Browse application repositories and live links →](PROJECTS.md)**
 
 Free hosting can take time to wake. Browser AI tools download their selected model on first use and need a compatible device. Browser-local apps keep their working data on your device; export backups where supported. Each project documents its own operating boundaries.
 
